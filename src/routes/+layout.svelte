@@ -7,7 +7,7 @@
 </script>
 
 <div class="bg-base-200">
-	<Nav />
+	<!-- <Nav /> -->
 
 	<div class="">
 		<slot />

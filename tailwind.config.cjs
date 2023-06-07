@@ -6,6 +6,9 @@ const config = {
 	},
 
 	plugins: [require("daisyui")],
+	daisyui: {
+		themes: ['aqua', 'cmyk']
+	}
 };
 
 module.exports = config;
