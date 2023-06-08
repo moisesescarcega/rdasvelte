@@ -5,8 +5,7 @@
 	<div class="hero-overlay  bg-opacity-30" />
 	<div class="hero-content">
 		<div class="z-60 drop-shadow-lg text-center">
-			<img src="LOGO03.png" width="450px" alt="RDA" />
-			<!-- <div class="mb-8 text-8xl font-semibold">Servicios RDA</div> -->
+			<img src="logo05.png" width="450px" alt="RDA" />
 			<div data-theme="cmyk" class="mb-8 text-2xl max-w-lg text-base-100 bg-transparent">
 				Servicio especializado en equipos y sistemas de bombeo.
 			</div>
@@ -22,7 +21,6 @@
 				  	</svg>
 				&nbsp;Cotiza
 				</a>
-				<!-- <button class="btn btn-accent transition-color duration-300 text-lg">Cotiza</button> -->
 			</div>
 		</div>
 	</div>

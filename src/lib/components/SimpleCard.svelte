@@ -13,7 +13,6 @@
 			<p>
 				Contamos con experiencia en fabricación, diseño y ensamble de diversos tipos de equipos de bombeo.
 			</p>
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
@@ -33,7 +32,6 @@
 			<p>
 				Venta, instalación y mantenimiento correctivo de equipos, ajustados a las reglas de normalización NFPA y actuales.
 			</p>
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
@@ -60,7 +58,6 @@
 			<p>
 				Todos los productos que trabajamos cuentan con garantía de fabricante, alta calidad y eficiencia.
 			</p>
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
