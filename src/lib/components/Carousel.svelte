@@ -1,4 +1,4 @@
-<div class="flex flex-col md:flex-row gap-2 xl:gap-5 -mt-[10rem]">
+<div class="carousel carousel-center py-10 gap-2 xl:gap-5 -mt-[10rem]">
 	<div class="carousel-item hover:scale-[102%] transition-all duration-300">
 		<img
 			class="w-48 sm:w-56 lg:w-64 xl:w-72 rounded-lg shadow-lg"

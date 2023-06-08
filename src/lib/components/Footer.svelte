@@ -1,6 +1,6 @@
 <footer class="footer footer-center p-10 text-accent flex flex-row gap-2 xl:gap-5">
 	<div class="px-4">
-		<img src="LOGO03.png" alt="RDA" class="h-full w-80 object-cover" />
+		<img src="logo05.png" alt="RDA" class="h-full w-80 object-cover" />
 		<p class="font-bold">
 			<br />Servicio especializado en equipos y sistemas de bombeo
 		</p>

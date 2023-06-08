@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Carousel from '$lib/components/Carousel.svelte';
-	import Carousel2 from '$lib/components/Carousel2.svelte';
 	import Hero from '$lib/components/Hero.svelte';
 	import HeroLeft from '$lib/components/HeroLeft.svelte';
 	import SimpleCard from '$lib/components/SimpleCard.svelte';

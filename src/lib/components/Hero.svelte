@@ -5,7 +5,7 @@
 	<div class="hero-overlay  bg-opacity-30" />
 	<div class="hero-content">
 		<div class="z-60 drop-shadow-lg text-center">
-			<img src="logo05.png" width="450px" alt="RDA" />
+			<img src="logo05.png" width="400px" alt="RDA" class="mx-auto my-5" />
 			<div data-theme="cmyk" class="mb-8 text-2xl max-w-lg text-base-100 bg-transparent">
 				Servicio especializado en equipos y sistemas de bombeo.
 			</div>
