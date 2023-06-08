@@ -1,7 +1,3 @@
-<script>
-	
-</script>
-
 <div class="carousel carousel-center gap-10 -mt-[10rem] lg:-mt-[10rem] py-10" id="carouselprincipal">
 	<div class="carousel-item hover:scale-[102%] transition-all duration-300">
 		<img

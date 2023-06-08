@@ -21,10 +21,10 @@
 
 	<div class="px-4">
 		<p>Contacto:</p>
-		<p><a class="font-bold" href="tel:+525517742133">+52 551774 2133</a> <br />San Miguel de Allende, Gto.</p>
-		<p><a class="font-bold" href="tel:+525526920934">+52 552692 0934</a> <br />Coyoacán, Ciudad de México</p>
-		<p class="mt-8"><a href="mailto:roberto_gre@hotmail.com">roberto_gre@hotmail.com</a></p>
-		<p><a href="mailto:contacto@aresdi.com">contacto@aresdi.com</a></p>
+		<p><a class="font-bold" href="https://wa.me/525517742133?text=Hola%20Servicios%20RDA,%20requiero%20apoyo%20con%20mi%20proyecto%20de%20">WhatsApp: 551774 2133</a></p>
+		<!-- <p><a class="font-bold" href="tel:+525526920934">+52 552692 0934</a> </p> -->
+		<p class="my-6 font-bold"><a href="mailto:roberto_gre@hotmail.com">contactorda@aresdi.com</a></p>
+		<p>San Miguel de Allende, Gto.<br />Coyoacán, Ciudad de México</p>
 	</div>
 	<div>
 

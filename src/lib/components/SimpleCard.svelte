@@ -31,7 +31,7 @@
 				Impartición de cursos de información y procedimientos, así como inspecciones de seguridad y seguimiento de las normas NFPA y SGA.
 			</p>
 			<p>
-				Venta, instalación y mantenimiento correctivo y preventivo de equipos aprobados, ajustados a las reglas de normalización NFPA y actuales.
+				Venta, instalación y mantenimiento correctivo de equipos, ajustados a las reglas de normalización NFPA y actuales.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
@@ -49,6 +49,7 @@
 			<h1 class="text-3xl font-bold">Marcas y distribución</h1>
 			<ul class="my-3 font-bold">
 				<li>EVANS</li>
+				<li>FYLA</li>
 				<li>AURORA-PICSA</li>
 				<li>MEJORADA</li>
 				<li>BARNES DE MÉXICO</li>
